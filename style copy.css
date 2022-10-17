@@ -1,0 +1,101 @@
+body{
+margin: 0 auto;
+background-image: url(image\ 2.png);
+background-repeat: no-repeat;
+background-position: center;
+width: 1440px;
+height: 866px;
+}
+
+.celular{
+    width:390px;
+    height:844px;
+    margin: 0 auto;
+    background-position:center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.cabecalho{
+width: 100%;
+height: 135px;
+background: rgba(23, 40, 86, 0.6);
+}
+
+.cabecalho>h2 {
+    color: white;
+    justify-content: space-between;
+    display: inline-flex;
+    font-family: 'Work Sans';
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.cabecalho>button {
+    color: white;
+    justify-content: space-between;
+    display: inline-flex;
+    font-family: 'Work Sans';
+    margin-left: 80px;
+    background-color: transparent;
+    border-radius: 30px;
+}
+
+img{
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    margin: 10px;
+}
+
+.textin{
+    height: 230px;
+width: 971px;
+border-radius: 10px;
+background: rgba(36, 57, 111, 0.5);
+padding: auto;
+color: white;
+font-size: 32px;
+line-height: 38.73px;
+margin-left: 80px;
+padding: auto;
+}
+
+#botao{
+width: 200px;
+height: 60px;
+
+background: rgba(0, 102, 255, 0.9);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+font-size: 32px;
+color: white;
+
+margin-left: 200px;
+align-items: center;
+text-align: center;
+}
+
+#imagem{
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+}
+
+.rodape{
+    border-radius: 50px;
+    background: rgba(52, 69, 113, 0.7);
+    height: 305px;
+    width: 1440px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+color: white;
+border: 5px solid white;
+}
